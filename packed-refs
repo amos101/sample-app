@@ -1,0 +1,8 @@
+# pack-refs with: peeled fully-peeled sorted 
+02d333a4507594d52c5fbc8bed1ad170387c925a refs/remotes/origin/dependabot/bundler/loofah-2.3.1
+78d7fa01dbb64834c598a3fbeb0934f06e03e17c refs/remotes/origin/dependabot/bundler/nokogiri-1.10.8
+1d51d05a490392c859ed934d1ba97f6474929be5 refs/remotes/origin/dependabot/bundler/puma-3.12.4
+93a63de14d3388030a91ccbf7916536961b6f62b refs/remotes/origin/dependabot/bundler/rack-2.2.3
+297663c1039b7a3568c65bdfd29dcf53271d2d03 refs/remotes/origin/dependabot/bundler/rake-13.0.1
+cd236835f6cf1a745c06017ae49e53a68cf0cff3 refs/remotes/origin/dependabot/bundler/websocket-extensions-0.1.5
+59430f37483d4612aba6ee5453586b035839afe9 refs/remotes/origin/master
